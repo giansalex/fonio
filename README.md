@@ -1,2 +1,2 @@
 # Fonio
-Sync File on the cloud 
+Sync File on the cloud.
